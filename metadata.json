@@ -1,0 +1,6 @@
+{
+  "name": "삼색일냥 글쓰기 연습 페이지",
+  "description": "초등 3학년 맞춤형 피드백 페이지 및 아침글쓰기 도우미. 삼색일냥 친구들의 스마트배움터",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
